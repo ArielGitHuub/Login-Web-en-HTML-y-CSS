@@ -88,7 +88,7 @@ cd Login-Web-en-HTML-y-CSS
 
 ### 2. Abrir el proyecto
 
-No se requieren dependencias ni instalación. Puedes hacer doble clic en `index.html` para abrirlo en el navegador, o usar la extensión **Live Server** de VS Code (clic derecho en `index.html` → _Open with Live Server_).
+No se requieren dependencias ni instalación. Puedes hacer doble clic en `index.html` para abrirlo en el navegador, o usar la extensión **Live Server** de VS Code.
 
 ### 3. Probar el diseño responsive
 
